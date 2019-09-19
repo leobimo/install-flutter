@@ -10,8 +10,8 @@ Prodi: Teknik Informatika 2017<br>
   
 -Download Command Tools Only:
  Silahkan kunjungi laman download <a href=" https://developer.android.com/studio/#command-tools ">disini</a>.
- Akan keluar laman seperti ini:
-    
+ Akan keluar laman seperti ini:<br>
+    <img src= "Capture2.png">
 -Ekstrak file tersebut.
  Sebelum di ekstrak buat file di C: dengan nama "Android". Kemudian letakan hasil download Flutter dan Command Line Tools pada folder tersebut. Ekstrak file tersebut dan akan menghasilkan 2 folder yaitu flutter dan tools.
  
