@@ -26,7 +26,12 @@ Prodi: Teknik Informatika 2017<br>
  Setelah dimasukan command diatas, anda bisa mengecek di Enviroment Variable.<br>
  Akan muncul laman seperti ini:
  
-- 
+-Buka terminal (Command Prompt) di C:/Android/tools/bin lalu ketikan beberapa perintah berikut. Diperlukan akses internet untuk melakukan ini. <br> 
+ <code> sdkmanager “system-images;android-28;default;x86_64” </code> <br> 
+ <code> sdkmanager “platform-tools” </code><br>
+ <code> sdkmanager “build-tools;28.0.3” .</code><br>
+ <code> sdkmanager “platforms;android-28” </code><br>
+ Setelah semua code diatas selesai, anda bisa cek Folder Android, ada banyak folder baru hasil download di command diatas. <br>
 
-
+                                                    
 
